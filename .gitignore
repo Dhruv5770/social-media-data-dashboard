@@ -1,0 +1,17 @@
+# virtualenv
+venv/
+
+# env file
+.env
+
+# VSCode files
+.vscode/
+
+# pycache
+__pycache__/
+
+# Data folder
+data/
+
+# Intellij Files
+.idea
